@@ -1,0 +1,6 @@
+{
+  "version": "1.2.0",
+  "binaries": {
+    "win64": "https://github.com/echoappbr/client-releases/releases/download/1.2.0/echo-client-1.2.0-x86_64.msi"
+  }
+}
